@@ -1,4 +1,4 @@
-# Shell-Script-to-automate-WordPress-installation
+# Shell Script to automate WordPress installation
 Shell script to automate downloading WordpPess
 
 # How to run this ?!
